@@ -2,7 +2,7 @@ public class Task2{
 
     public static void main(String[]args){
 
-//target output H3110 w0r1d2.0 true
+    //target output H3110 w0r1d2.0 true
         
     char letterH = 'H';
     char letterw = 'w';
@@ -14,7 +14,7 @@ public class Task2{
     float numberTwo = 2.0f;
     boolean notFalse = true;
 
-        String output = "" + letterH + threeOneOneZero + " " + letterw + zero + letterr  + one + letterd + " " + numberTwo + " " + notFalse;
-        System.out.println(output);
-        }
+    String output = "" + letterH + threeOneOneZero + " " + letterw + zero + letterr  + one + letterd + " " + numberTwo + " " + notFalse;
+    System.out.println(output);
     }
+}
