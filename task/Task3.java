@@ -9,8 +9,7 @@ public class Task3 {
 
         boolean b1 = a == b;
         boolean b2 = d.equals(b + "!");
-        boolean b3 = !d.equals(a); //"Wow!" is not equals to "Wow"  - will be false just put ! so it will be true
-
+        boolean b3 = !d.equals(a);
         if (b1 && b2 && b3) {
             System.out.println("Success!");
         }
