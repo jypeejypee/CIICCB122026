@@ -1,8 +1,5 @@
 import java.util.Scanner;
-/*
-Create a program where user inputs two numbers and perform 4 basic arithmetic operation using 4 methods
-with return type and print the results
-*/
+
 public class Task7 {
 
 public static int add (int a, int b){
